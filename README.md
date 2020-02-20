@@ -1,20 +1,21 @@
-# Guess
+# Guess Game
 
-##### A program that allows user to guess a number between 1 to 9. 1/31/20
+##### A program that allows user to guess a number between 1 to 20. 8/03/18
 
 #### By **Jiwon Han**
 
 ## Description
 
-User is able to guess any numbers between 1 to 9 and the program let user know that it is correct or not.
+A user is given four chances to guess any numbers between 1 to 20 and the program gives hint to user if the answer number is larger or smaller than a number thrown. 
 
 
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **Program allows the users to choose toppings and size for the pizza they'd like to order** | Topping options: "Cheese", "Pepperoni", "Meat" | Output: "Cheese" |
-| **Program allows the users to choose pizza size**| Size options: "XLarge", "Large", "Medium", "Small" | Output: "Medium" |
-| **Program returns total cost of the pizza based on user's selection**| Input: "Cheese", "Medium" | Output: "$15" |
+| **Program allows the users to guess the answer between number 1 to 20** | Input: "8" | Output: "축하합니다. 1번만에 숫자를 맞추셨습니다." |
+| **Program notify if the answer is not correct**| Input: "4" | Output: "아쉽습니다. 정답은 12였습니다." |
+| **Program notify how many chances are left**| Input: "11" | Output: "기회가 2번 남았습니다. 1-20 사이의 숫자를 맞춰보세요." |
+| **Program notify answer number is larger or smaller than a number that user give**| Input: "2" | Output: "Up" |
 
 ## Setup/Installation Requirements
 
