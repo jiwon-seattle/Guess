@@ -1,6 +1,6 @@
 # Guess Game
 
-##### A program that allows user to guess a number between 1 to 20. 8/03/18
+##### A program that allows user to guess a number between 1 to 20. 08/03/18
 
 #### By **Jiwon Han**
 
