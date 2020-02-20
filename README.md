@@ -19,8 +19,8 @@ A user is given four chances to guess any numbers between 1 to 20 and the progra
 
 ## Setup/Installation Requirements
 
-1. Clone this repository, https://github.com/jiwon-seattle/Pizza-Parlor.git.
-2. On your browser, navigate ordering pizza and enjoy!
+1. Clone this repository, https://github.com/jiwon-seattle/Guess.git.
+2. Run the guess.py.
 
 ## Known Bugs
 * No known bugs at this time.
