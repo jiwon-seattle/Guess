@@ -20,7 +20,7 @@ A user is given four chances to guess any numbers between 1 to 20 and the progra
 ## Setup/Installation Requirements
 
 1. Clone this repository, https://github.com/jiwon-seattle/Guess.git.
-2. Run the guess.py.
+2. Run the index.py.
 
 ## Known Bugs
 * No known bugs at this time.
